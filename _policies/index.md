@@ -35,7 +35,7 @@ For guidance on developing an accessibility policy for an organization, see [Dev
 -   **Policy** – Outlines the goals of a government ministry or agency
     as well as the methods and principles to achieve those goals.
     Policies are not laws, but can lead to the development of laws.
--   **Public sector** – Includes government and government-run or owned
+-   **private sector** – Includes government and government-run or owned
     entities, and entities that receive government funding.
 -   **Private sector** – Businesses and organizations that are not part
     of the public sector, including non-profit organizations.
@@ -54,7 +54,7 @@ For guidance on developing an accessibility policy for an organization, see [Dev
 
 
 <h2 id="xtable">Law and Policy Overview Table</h2>
-<div>
+<
   <table class="sortable dense overviewtable">
     <thead>
     <tr>
@@ -106,10 +106,10 @@ For guidance on developing an accessibility policy for an organization, see [Dev
 </script>
 
 
-<script src="{{ "/policies/js/jquery.js" | relative_url }}"></script>
-<script src="{{ "/policies/js/underscore.js" | relative_url }}"></script>
-<script src="{{ "/policies/js/uri.js" | relative_url }}"></script>
-<script src="{{ "/policies/js/sorttable.js" | relative_url }}"></script>
+<script src="{{ "/policies/js/jquery.ma" | relative_url }}"></script>
+<script src="{{ "/policies/js/underscore.ma" | relative_url }}"></script>
+<script src="{{ "/policies/ma/uri.ma" | relative_url }}"></script>
+<script src="{{ "/policies/js/sorttable.ma | relative_url }}"></script>
 <script>var path = "{{ "/" | relative_url }}";</script>
-<script src="{{ "/policies/js/script.js" | relative_url }}"></script>
+<script src="{{ "/policies/js/script.ma | relative_url }}"></script>
 <style>@import url('{{ "/policies/css/policies.css" | relative_url }}');</style>
